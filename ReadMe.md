@@ -28,6 +28,8 @@ Linux/Mac can use shellscript include awk and sed.
 
 Windows10 can use PowerShell.
 
+calc.sh or calc.ps1 make **result.csv** form data.csv
+
 ## Stamp
 
 In Japan, we use stamp.
