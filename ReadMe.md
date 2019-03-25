@@ -22,7 +22,7 @@ Oh, Let's use **AsciiDoc** to write inovice.
 - utf8
 - data.csv
 
-I want to calculate subtotal and sum to use Shell and PowerShell.
+I want to calculate subtotal and sum to use Shell or PowerShell.
 
 Linux/Mac can use shellscript include awk and sed.
 
