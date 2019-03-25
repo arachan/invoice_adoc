@@ -50,7 +50,7 @@ Japanese City Office prefer not Sign but stamp.
 
 Bank and Tax office, Campany's general office prefer stamp, too.
 
-Umm....
+Umm.... :-(
 
 ### invoice.adoc
 
