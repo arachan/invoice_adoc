@@ -30,11 +30,6 @@ Windows10 can use PowerShell.
 
 calc.sh or calc.ps1 make **result.csv** form data.csv
 
-## Stamp
-
-In Japan, we use stamp.
-
-So, I prepaired stamp.jpg file.
 
 ## How to use
 
@@ -42,3 +37,79 @@ So, I prepaired stamp.jpg file.
 2. Run calc.sh or calc.ps1 to calculate subtotal and sum.
 3. Write invoice.adoc
 4. Convert to pdf to use asciidoctor-pdf
+
+## Stamp
+
+In Japan, we use stamp.
+
+So, I prepaired stamp.jpg file.
+
+stamp is old style authentication.
+
+Japanese City Office prefer not Sign but stamp.
+
+Bank and Tax office, Campany's general office prefer stamp, too.
+
+Umm....
+
+### invoice.adoc
+
+Sample invoice is Japanese.
+
+In English is under contents.
+
+#### Point
+
+**Simple Design**
+AsciiDoc don't have Right Justify and Left Justify. 
+
+So, Write upper to down.
+
+**Contents**
+It is include result.csv.
+It change table in convert pdf or html.
+
+```
+== Invoice
+
+=== To
+Imperial Univercity Hospital
+
+9-3 Tukiji
+Chuo Ward
+Tokyo Pref.
+JP 104-0004
+
+President
+Shigekazu Hiruma
+
+=== From
+
+Kanbara Doctor Agency
+
+Akira Kanbara
+
+image::stamp.jpg[width=40]
+
+1-4-1
+Saga
+Koto Ward
+Tokyo Perf.
+JP 135-0031
+
+=== Contents
+
+[format="csv", options="header"]
+|===
+include::result.csv[]
+|===
+
+=== the Bank Account
+
+●● Bank ●● branch
+
+(General)　000-000-000000
+
+Kanbara Doctor Agency
+
+```
