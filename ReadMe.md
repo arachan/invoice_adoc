@@ -64,7 +64,7 @@ In English is under contents.
 
 AsciiDoc don't have Right Justify and Left Justify. 
 
-So, Write upper to down.
+So, Write to up from down.
 
 **Contents**
 
