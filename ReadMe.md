@@ -48,7 +48,7 @@ stamp is old style authentication.
 
 Japanese City Office prefer not Sign but stamp.
 
-Bank and Tax office, Campany's general office prefer stamp, too.
+Bank and Tax office, Campany's general section prefer stamp, too.
 
 Umm.... :-(
 
@@ -70,7 +70,7 @@ So, Write upper to down.
 
 It is include result.csv.
 
-It change table in convert pdf or html.
+It change table to convert pdf or html.
 
 ```
 == Invoice
