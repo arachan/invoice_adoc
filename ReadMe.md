@@ -76,7 +76,7 @@ It change table to convert pdf or html.
 == Invoice
 
 === To
-Imperial Univercity Hospital
+Imperial University Hospital
 
 9-3 Tukiji
 Chuo Ward
